@@ -8,4 +8,12 @@
 
 --> voir le JSON qui est renvoyer au server
 
+**prérequis**
+
+modifier dans le fichier moulinette.py
+--> username (ligne 49)
+--> password (ligne 51)
+
+
+
 
