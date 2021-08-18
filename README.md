@@ -1,20 +1,24 @@
-# test-moulinette
 
-**detaille script :**
 
---> voir les test realisé par la moulinette
+## Systems Networks moulinette Hack
 
---> voir step par step la commande + le resultat
+# **Détail script :**
 
---> voir le JSON qui est renvoyer au server
+    --> Voir les tests réalisés par la moulinette
 
-**prérequis**
+    --> Voir step par step la commande + le résultat
 
-modifier dans le fichier moulinette.py
+    --> Voir le JSON qui est renvoyer au serveur
 
---> username (ligne 49)
+# **Prérequis**
 
---> password (ligne 51)
+Modifié dans le fichier moulinette.py :
+
+    --> Username (ligne 49)
+
+    --> Password (ligne 51)
+
+
 
 
 
